@@ -9,4 +9,8 @@ export class AddDoctorComponent implements OnInit {
     ngOnInit(): void {
         //Add Doctor Code Stuffs
     }
+
+    testDoctor(): void {
+        //This tests doctors
+    }
 }
