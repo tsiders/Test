@@ -6,11 +6,7 @@ import { Component, OnInit } from '@angular/core';
     styleUrls: ['./add-doctor.component.scss']
 })
 export class AddDoctorComponent implements OnInit {
-
-    constructor() { }
-
     ngOnInit(): void {
         //Add Doctor Code Stuffs
     }
-
 }
